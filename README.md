@@ -6,7 +6,7 @@ goal: Use Android App Cloner to reduce Resource use!
 
 sch: https://www.google.com/search?q=android+multiple+versions+of+same+app
 
-## Guide:
+**Guide:**
 - https://www.makeuseof.com/run-two-copies-of-app-android/
 
 # modification: Third-Party Cloning Apps
